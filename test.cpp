@@ -5,7 +5,7 @@
 using namespace std;
 /* deuxieme modification pour essai de Commit*/
 // Modif Commit
-
+// modif faite sur GitHub Web
 int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
