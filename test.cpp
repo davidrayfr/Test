@@ -12,7 +12,10 @@ int main()
 
     for (const string& word : msg)
     {
+// Affichage
         cout << word << " ";
+        cout << word << " ";
+
     }
     cout << endl;
 }
